@@ -1,6 +1,6 @@
 """Entry for make.fun: One Line, One Laugh.
 
-Relationship advice from a fridge that has seen too much at 3 a.m.
+Relationship advice from a fridge that has seen too much at 3 a.m. and kept the receipts.
 """
 import os
 
